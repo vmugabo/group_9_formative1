@@ -1,4 +1,4 @@
-# Time Series Stock Prices: MySQL + MongoDB + Forecasting
+# Time Series Stock Prices: EDA + MySQL + MongoDB + Forecasting Predictions
 
 Group assignment on time-series data processing, dual-database implementation (MySQL & MongoDB), CRUD operations, and forecasting.
 [PDF Report](https://docs.google.com/document/d/1NCNulXtb6SD3HT7VWqyT5OROOTRuj-bk-dun497EGEs/edit?usp=sharing)
