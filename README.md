@@ -1,6 +1,7 @@
 # Time Series Stock Prices: MySQL + MongoDB + Forecasting
 
 Group assignment on time-series data processing, dual-database implementation (MySQL & MongoDB), CRUD operations, and forecasting.
+[PDF Report](https://docs.google.com/document/d/1NCNulXtb6SD3HT7VWqyT5OROOTRuj-bk-dun497EGEs/edit?usp=sharing)
 
 **Dataset**  
 Daily adjusted closing prices for AMZN, DPZ, BTC, NFLX (2013-05-01 to 2019-05-14, 1520 rows)  
